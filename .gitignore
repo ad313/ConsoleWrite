@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/ConsoleWrite/.vs/ConsoleWrite
+/src/ConsoleWrite/bin/Debug/net5.0
+/src/ConsoleWrite/obj
+/src/ConsoleWrite.Sample/bin/Debug/net5.0
+/src/ConsoleWrite.Sample/obj
